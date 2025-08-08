@@ -2,3 +2,4 @@
 require("config.lazy")
 require("config.screenkey")
 require("config.conform")
+require("config.themes")
