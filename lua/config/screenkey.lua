@@ -1,7 +1,7 @@
 require("screenkey").setup({
   win_opts = {
-    row = vim.o.lines - vim.o.cmdheight - 1,
-    col = 0,
+    row = 1 + vim.o.cmdheight - 1,
+    col = vim.o.columns - 2,
     relative = "editor",
     anchor = "NE",
     width = 35,
