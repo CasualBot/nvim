@@ -3,7 +3,7 @@ require("screenkey").setup({
     row = vim.o.lines - vim.o.cmdheight - 1,
     col = 0,
     relative = "editor",
-    anchor = "SW",
+    anchor = "NE",
     width = 35,
     height = 3,
     border = "single",

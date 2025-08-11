@@ -1,12 +1,10 @@
 {
   "extras": [
-    "lazyvim.plugins.extras.ai.copilot",
     "lazyvim.plugins.extras.coding.yanky",
     "lazyvim.plugins.extras.editor.harpoon2",
     "lazyvim.plugins.extras.editor.inc-rename",
     "lazyvim.plugins.extras.editor.telescope",
     "lazyvim.plugins.extras.formatting.biome",
-    "lazyvim.plugins.extras.lang.typescript",
     "lazyvim.plugins.extras.ui.treesitter-context",
     "lazyvim.plugins.extras.util.dot",
     "lazyvim.plugins.extras.util.octo",

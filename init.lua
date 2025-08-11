@@ -2,4 +2,5 @@
 require("config.lazy")
 require("config.screenkey")
 require("config.conform")
-require("config.themes")
+
+vim.api.nvim_set_option_value("colorcolumn", "80", {})
